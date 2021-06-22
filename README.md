@@ -17,6 +17,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 I'm making more changes. And some final ones?
+Please add this file. 
 
 ####Copyright
 2021 course
