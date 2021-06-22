@@ -8,10 +8,12 @@ Adding introduction
 
 ## Deployment
 
+Adding deployment
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## How to contribute
 
-I'm making more changes
+I'm making more changes. And some final ones?
