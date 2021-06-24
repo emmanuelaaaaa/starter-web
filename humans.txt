@@ -7,7 +7,7 @@ Emma
 
 # THANKS
 
-    <name>
+    all students
 
 # TECHNOLOGY COLOPHON
 
