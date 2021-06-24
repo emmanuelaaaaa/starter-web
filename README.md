@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Adding introduction
+Adding more text for rebasing example
 
 ## Deployment
 
